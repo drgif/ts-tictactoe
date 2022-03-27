@@ -1,0 +1,14 @@
+{
+  "name": "ts-tictactoe",
+  "version": "1.0.0",
+  "description": "A simple (functional) tic tac toe implementation in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Wiederhold",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
